@@ -18,6 +18,7 @@ ARTECO was founded in 1987 as an industrial electronics manufacturer which grew 
 
 In a world of ever-changing technology needs, ARTECO stands-out as a leader in Intelligent Video with a solid focus on innovation, industrial experience and financial reliability. This leadership is maintained by a tactical global sales force ready to support enterprise-wide solutions around the world.</p>
 
-
-![screenshot](https://www.arteco-global.com/wp-content/uploads/2020/05/Progetto-senza-titolo-12.png)
+<p align="center">
+  <img width="100%" height="100%" src="https://www.arteco-global.com/wp-content/uploads/2020/05/Progetto-senza-titolo-12.png">
+</p>
 
