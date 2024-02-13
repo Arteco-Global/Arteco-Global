@@ -23,4 +23,6 @@ ARTECO was founded in 1987 as an industrial electronics manufacturer which grew 
 
 In a world of ever-changing technology needs, ARTECO stands-out as a leader in Intelligent Video with a solid focus on innovation, industrial experience and financial reliability. This leadership is maintained by a tactical global sales force ready to support enterprise-wide solutions around the world.</p>
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/112rl.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/112ry.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
